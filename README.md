@@ -1,2 +1,2 @@
-# GainzApp-Project
-GainzApp Fitness Project
+#  ⚡ GainzApp Project
+GainzApp 
